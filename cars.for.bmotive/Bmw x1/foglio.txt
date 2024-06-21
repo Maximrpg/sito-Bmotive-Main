@@ -1,0 +1,6 @@
+name : bmw x1 
+year : 2022 
+type : occasional 
+oil : benzina 
+gear : automatico 
+CV : 136 

@@ -1,0 +1,7 @@
+Name : Toyota yaris 
+year : 2022 
+type : occasional 
+oil : benzina 
+gear : manuale 
+CV : 72 
+price : 499$

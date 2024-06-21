@@ -1,0 +1,7 @@
+name : Huyandai Kona 
+year : 2022
+type : occasional 
+oil : benzina 
+gear : manual 
+CV : 120 
+price : 599$

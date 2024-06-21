@@ -1,0 +1,7 @@
+Name : Volswagen Tiguan 
+year : 2022
+type : occasional 
+oil : diesel 
+gear : automatico 
+CV : 150 
+Price : 889$

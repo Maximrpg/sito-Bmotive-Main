@@ -1,0 +1,7 @@
+Name : Bmw Serie 3 Touring 
+year : 2022 
+type : occasional 
+oil : ibrida 
+gear : Automatico 
+CV :  190 
+Price : 849$ 

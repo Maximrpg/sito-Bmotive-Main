@@ -1,0 +1,6 @@
+Name: Nissan Juke
+year : 2022 
+type : occasional 
+oil : Benzina 
+gear : Automatico 
+CV : 114 

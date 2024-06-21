@@ -1,0 +1,7 @@
+Name: FIAT Panda 
+year : 2023 
+type : occasionale 
+oil : Ibrid 
+gear : Manual 
+CV: 70
+Price : 345$ 

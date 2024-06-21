@@ -1,0 +1,7 @@
+Name : Alfa Romeo Stelvio
+Year : 2022 
+type : occasional
+oil : Diesel 
+gear : automatico 
+CV : 190
+price : 955$ 

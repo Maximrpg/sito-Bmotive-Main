@@ -1,0 +1,7 @@
+Name: Volswagen T-Roc 
+year : 2022 
+type : new entry 
+oil : Benzina 
+gear : Manual 
+CV : 110 
+Price : 589$

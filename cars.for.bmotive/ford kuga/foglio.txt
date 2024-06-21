@@ -1,0 +1,7 @@
+name: ford kuga
+year: 2022
+type: occasional 
+oil : ibrida 
+gear : automatico 
+CV : 225 
+price : 825$

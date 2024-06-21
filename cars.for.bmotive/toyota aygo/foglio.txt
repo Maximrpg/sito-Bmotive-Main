@@ -1,0 +1,7 @@
+name:  toyota aygo x 
+year  : 2023 
+type : new entry 
+oil : benzina 
+gear : automatico 
+CV : 72 
+price : 475$ 

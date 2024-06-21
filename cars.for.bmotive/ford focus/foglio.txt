@@ -1,0 +1,7 @@
+name : Ford Focus 
+year : 2022 
+type : occasional 
+oil : diesel 
+gear : automatic 
+CV : 115 
+price : 649$

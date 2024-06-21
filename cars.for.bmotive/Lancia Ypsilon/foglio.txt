@@ -1,0 +1,7 @@
+name : lancia ypsilon 
+year : 2022 
+type ; occasional 
+oil : ibrid 
+gear : manual 
+CV : 70 
+price : 425$ 
